@@ -33,7 +33,7 @@ requirements：opencv-python,  multi-template-matching(1.6.4)
 
 
 
-![image-20230418110654352](assets\image-20230418110654352.png)
+![image-20230418110654352](assets/image-20230418110654352.png)
 
 同理，datamatrix码也可以通过这样的方式截取出来。
 
